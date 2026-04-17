@@ -1,0 +1,10 @@
+{
+  "name": "yanbal-panel",
+  "version": "1.0.7",
+  "engines": {
+    "node": "20.x"
+  },
+  "dependencies": {
+    "@vercel/blob": "^2.3.3"
+  }
+}
